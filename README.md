@@ -1,2 +1,0 @@
-# starcasino
-starcasino site
